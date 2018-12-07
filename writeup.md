@@ -1,6 +1,6 @@
 # **Finding Lane Lines on the Road** 
 
-## Writeup Template
+## Writeup
 
 ### You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
 
@@ -63,9 +63,9 @@ The pipeline was built with the extensive use of the OpenCV library in order to 
 
 ### 2. Identify potential shortcomings with your current pipeline
 
-One potential short coming is that this method seems to be susceptable to shadows on the edge of the road (like due to the side of a bridge).  The current pipeline can sometimes mistaken these shadows for lane lines.
+One potential short coming is that this method seems to be susceptable to shadows on the edge of the road (like due to the side of a bridge) or high contrasts between the edge of the road and the shoulder.  The current pipeline can sometimes mistaken these shadows for lane lines.
 
 
 ### 3. Suggest possible improvements to your pipeline
 
-A possible improvement would be to add color detection in order to eliminated unwanted shadows.
+A possible improvement would be to add color detection in order to eliminated unwanted shadows by distinguishing them from white and yellow lane markings.
