@@ -15,12 +15,12 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image0]: ./test_images_output/original.jpg "Original Image"
-[image1]: ./test_images_output/blurred.jpg "Blurred Grayscale Image"
-[image2]: ./test_images_output/canny.jpg "Canny Transformation"
-[image3]: ./test_images_output/masked.jpg "Region Mask Applied"
-[image4]: ./test_images_output/extended_lines.jpg "Average Lane Lines"
-[image5]: ./test_images_output/final.jpg "Final Image"
+[image0]: ./test_images_output/original.png "Original Image"
+[image1]: ./test_images_output/blurred.png "Blurred Grayscale Image"
+[image2]: ./test_images_output/canny.png "Canny Transformation"
+[image3]: ./test_images_output/masked.png "Region Mask Applied"
+[image4]: ./test_images_output/extended_lines.png "Average Lane Lines"
+[image5]: ./test_images_output/final.png "Final Image"
 
 ---
 
