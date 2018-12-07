@@ -15,12 +15,12 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image0]: ./examples/grayscale.jpg "Grayscale"
-[image1]: ./examples/blurred.jpg "Grayscale"
-[image2]: ./examples/canny.jpg "Grayscale"
-[image3]: ./examples/masked.jpg "Grayscale"
-[image4]: ./examples/extended_lines.jpg "Grayscale"
-[image5]: ./examples/final.jpg "Grayscale"
+[image0]: ./test_images_output/original.jpg "Original Image"
+[image1]: ./test_images_output/blurred.jpg "Blurred Grayscale Image"
+[image2]: ./test_images_output/canny.jpg "Canny Transformation"
+[image3]: ./test_images_output/masked.jpg "Region Mask Applied"
+[image4]: ./test_images_output/extended_lines.jpg "Average Lane Lines"
+[image5]: ./test_images_output/final.jpg "Final Image"
 
 ---
 
